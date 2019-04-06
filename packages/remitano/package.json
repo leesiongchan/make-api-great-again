@@ -1,0 +1,14 @@
+{
+  "name": "make-remitano-api-great-again",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "yoga dev",
+    "build": "yoga build",
+    "start": "yoga start"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-adapter-hmac": "^0.1.1",
+    "qs": "^6.7.0"
+  }
+}

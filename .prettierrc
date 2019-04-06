@@ -1,0 +1,13 @@
+{
+  "arrowParens": "always",
+  "overrides": [
+    {
+      "files": "*.yaml",
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ],
+  "singleQuote": true,
+  "trailingComma": "all"
+}
